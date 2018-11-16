@@ -1,8 +1,8 @@
 # EcMOdel
 
-## Our goal is to develop a machine learning prediction algorithm for neurological injury in pediatric cardiac patients.
+#### Our goal is to develop a machine learning prediction algorithm for neurological injury in pediatric cardiac patients.
 
-The biggest risk factor for Pediatric EcMo patients is stroke.  We have built a framework to statistically assess actionable events leading to neurological injury and improve neurological outcomes.  
+The biggest risk factor for Pediatric EcMo patients is stroke.  We have built a framework to statistically assess actionable events leading to stroke and improve neurological outcomes.  
 
 # Overview Diagram
 
