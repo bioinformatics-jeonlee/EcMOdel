@@ -41,5 +41,5 @@ We tested four different tools with . They can be found in server/tools/ .
 Additional Functionality
 
 ## Full paper
-Shah N, Farhat A, Tweed J, Wang Z, Lee J, McBeth R, Skinner M, Tian F, Thiagarajan R, Raman L. Neural Networks to Predict Radiographic Brain Injury in Pediatric Patients Treated with Extracorporeal Membrane Oxygenation. Journal of Clinical Medicine. 2020; 9(9):2718. https://doi.org/10.3390/jcm9092718
+Shah N, Farhat A, Tweed J, Wang Z, Lee J, McBeth R, Skinner M, Tian F, Thiagarajan R, Raman L. Neural Networks to Predict Radiographic Brain Injury in Pediatric Patients Treated with Extracorporeal Membrane Oxygenation. J Clin Med. 2020 Aug 22;9(9). doi: 10.3390/jcm9092718. PubMed PMID: 32842683; PubMed Central PMCID: PMC7565544.
 
