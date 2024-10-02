@@ -7,6 +7,9 @@ The biggest risk factor for Pediatric EcMo patients is stroke.  We have built a 
 ## Abstract
 Brain injury is a significant source of morbidity and mortality for pediatric patients treated with Extracorporeal Membrane Oxygenation (ECMO). Our objective was to utilize neural networks to predict radiographic evidence of brain injury in pediatric ECMO-supported patients and identify specific variables that can be explored for future research. Data from 174 ECMO-supported patients were collected up to 24 h prior to, and for the duration of, the ECMO course. Thirty-five variables were collected, including physiological data, markers of end-organ perfusion, acid-base homeostasis, vasoactive infusions, markers of coagulation, and ECMO-machine factors. The primary outcome was the presence of radiologic evidence of moderate to severe brain injury as established by brain CT or MRI. This information was analyzed by a neural network, and results were compared to a logistic regression model as well as clinician judgement. The neural network model was able to predict brain injury with an Area Under the Curve (AUC) of 0.76, 73% sensitivity, and 80% specificity. Logistic regression had 62% sensitivity and 61% specificity. Clinician judgment had 39% sensitivity and 69% specificity. Sequential feature group masking demonstrated a relatively greater contribution of physiological data and minor contribution of coagulation factors to the model's performance. These findings lay the foundation for further areas of research directions.
 
+![image](https://github.com/user-attachments/assets/c21f4a65-f733-4258-9ab2-8ac1f9080803)
+
+
 # Overview Diagram
 
 How to use
